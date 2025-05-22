@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+
+
+body {
+    background-image: url(Papel\ de\ parde05.jpg);
+    
+}
+
+.tituloprincipal {
+    text-align: left;
+    font-family: "Lora", serif;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px #131212;
+    font-family: "Lora", serif;
+    color: #8b8b8b;
+    
+}
+
+
+.sinopse {
+    font-family: "Lora", serif;
+    text-align: center;
+    
+}
+
+
+.conteiner { width: 700px;}
+.conteiner img {
+    width: 300px;
+    float: left;
+    margin-right: 19px;
+    border: solid black;
+}
+.conteiner, p {
+    line-height: 21px;
+    color: #8b8b8b;
+    font-family: "Lora", serif;
+}
+
+.botaovoltar {
+    color: rgb(141, 142, 143);
+}
